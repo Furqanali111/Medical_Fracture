@@ -1,7 +1,11 @@
 # Medical_Fracture
 This Python script demonstrates a simple image classification pipeline using transfer learning with the VGG16 model and logistic regression. The script loads a dataset of images, extracts features from the images using the pre-trained VGG16 model, splits the dataset into training and testing sets, trains a logistic regression classifier on the extracted features, and evaluates the model's performance on a validation set.
 
-Image Classification with VGG16 and Logistic Regression
+**Dataset:**
+
+https://mega.nz/file/zcdywLhI#fck4ufXy_o_Uiu0vGqh-cZiKHw5Xe_n4M2qWUWSheAI
+
+**Image Classification with VGG16 and Logistic Regression**
 
 This Python script showcases a basic image classification pipeline using transfer learning with the VGG16 model and logistic regression. It utilizes popular libraries like NumPy, OpenCV, scikit-learn, and TensorFlow's Keras API to train and evaluate an image classifier.
 
